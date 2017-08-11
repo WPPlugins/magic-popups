@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#vzx-containr {
+  border:3px solid #BB77AE;
+  background: white;
+}
+.vzx-wrap-inner{
+	padding:20px;
+}
+
+.fieldgroup {
+    clear: both;
+padding: 10px 0px;
+}
+.slctbox{
+	width:160px;
+	float:left;
+}
+
+.labelh{
+cursor: default;
+    font-size: 15px;
+    line-height: 30px;
+float: left;
+    width: 170px;
+}
